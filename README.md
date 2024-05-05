@@ -1,6 +1,5 @@
 # Reddit Clone App on Kubernetes
-Test 100
-
+Test 1000
 
 
 
