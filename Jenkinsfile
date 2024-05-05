@@ -22,7 +22,7 @@ pipeline {
         }
         stage('Checkout from Git') {
             steps {
-                git branch: 'main', url: 'https://github.com/330012/docker-flask-demo.git'
+                git branch: 'main', url: 'https://github.com/330012/a-reddit-clone-main.git'
             }
         }
         stage("Sonarqube Analysis") {
